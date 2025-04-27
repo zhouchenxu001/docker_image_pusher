@@ -9,7 +9,6 @@ openjdk:11
 openjdk:17
 openjdk:21
 redis:latest
-bitnami/rabbitmq:latest
 rabbitmq:management
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
