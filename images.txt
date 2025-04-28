@@ -1,6 +1,7 @@
 nginx
 jenkins/jenkins:latest-jdk21
-node
+node:latest
+node:22.15.0-slim
 ubuntu
 easysoft/zentao:latest
 mysql:latest
